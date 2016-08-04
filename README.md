@@ -1,7 +1,7 @@
 # Del-Castillo---De-Vera
 
 ##Introduction
-This project aims to incorporate video streaming and sharing like YouTube but with an added feature of audio streaming and sharing. 
+This project aims to incorporate video streaming and sharing like YouTube but with an added feature of audio streaming and sharing. It will also allow the user to comment on posted videos and audio and save them for future use.
 
 
 

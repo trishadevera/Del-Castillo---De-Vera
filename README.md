@@ -14,9 +14,9 @@ This project
 
 ##Data Structure Application
 - Graph (Subscribers)
-- Lists (videos)
-- Stack (search videos)
+- Lists (videos and audio)
+- Stack (search videos and audio)
 
 
 ##Division of Labor
-TEAMWORK IS LOVE, TEAMWORK IS LIFE !!!
+What's gonna work??? TEAMWORK!!!!!

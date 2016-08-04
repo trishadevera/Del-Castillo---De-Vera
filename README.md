@@ -7,8 +7,9 @@ This project aims to incorporate video streaming and sharing like YouTube but wi
 
 
 ##Significance
-
-
+ - It can be used for educational purposes such as video tutorials and online lectures
+ - It can be used for entertainment such as watching or posting viral videos
+ 
 
 
 
